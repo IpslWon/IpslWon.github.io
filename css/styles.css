@@ -12,7 +12,11 @@
 
 @font-face {
   font-family: sabon; /* set name */
-  src: url(css/Sabon-CE-Bold-Italic.ttf); /* url of the font */
+  src: url(css/Sabon-CE-Bold-Italic.eot); /* url of the font */
+    url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+    url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+    url('css/Sabon-CE-Bold-Italic.ttf')  format('truetype'), /* Safari, Android, iOS */
+  
 }
 
 
