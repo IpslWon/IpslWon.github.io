@@ -23,6 +23,19 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Xeroda Regular';
+    src: url('xeroda.eot');
+    src: url('xeroda.eot?#iefix') format('embedded-opentype'),
+        url('xeroda.woff2') format('woff2'),
+        url('xeroda .woff') format('woff'),
+        url('xeroda.ttf') format('truetype'),
+        url('xeroda.svg#SabonCE-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
 
 * {
     margin: 0;
@@ -37,7 +50,7 @@ html {
 
 body {
     padding: 0 50px;
-    font-family: 'Sabon CE Roman','Poppins', sans-serif;
+    font-family: 'Xeroda Regular', 'Sabon CE Roman','Poppins', sans-serif;
     background-color: var(--background-color);
     max-width: 1400px;
     margin: 0 auto;
