@@ -1,13 +1,17 @@
 ---
 layout: post
 title: Chook Nook
-description: To monitor and care for my chicken flock, I've created a sytem using a RasperryPi and several other hardware pieces.
+description: To monitor and care for my chicken flock, I've created a sytem using a Rasperry Pi and several other hardware pieces.
 skills: 
-  - soldering
+  - Soldering
+  - Raspberry Pi
   - Python
   - Networking
+  - BIND\DNS
   - Machine Learning
   - Web Design
+  - Photovoltaics
+  - ESP32
 
 main-image: /hello_ladies.jpg
 ---
