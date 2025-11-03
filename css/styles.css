@@ -11,11 +11,16 @@
 }
 
 @font-face {
-  font-family: sabon; /* set name */
-  src: url(css/Sabon-CE-Bold-Italic.eot); /* url of the font */
-    url('css/Sabon-CE-Bold-Italic.woff2') format('woff2'), /* Super Modern Browsers */
-    url('css/Sabon-CE-Bold-Italic.woff') format('woff'), /* Pretty Modern Browsers */
-    url('css/Sabon-CE-Bold-Italic.ttf')  format('truetype'); /* Safari, Android, iOS */
+    font-family: 'Sabon CE Roman';
+    src: url('SabonCE-BoldItalic.eot');
+    src: url('SabonCE-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('SabonCE-BoldItalic.woff2') format('woff2'),
+        url('SabonCE-BoldItalic.woff') format('woff'),
+        url('SabonCE-BoldItalic.ttf') format('truetype'),
+        url('SabonCE-BoldItalic.svg#SabonCE-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
 }
 
 
@@ -32,7 +37,7 @@ html {
 
 body {
     padding: 0 50px;
-    font-family: sabon,'Poppins', sans-serif;
+    font-family: 'Sabon CE Roman','Poppins', sans-serif;
     background-color: var(--background-color);
     max-width: 1400px;
     margin: 0 auto;
