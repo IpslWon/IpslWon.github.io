@@ -10,6 +10,12 @@
   --light-background-color: {{ site.colors.light_background }};
 }
 
+@font-face {
+  font-family: sabon; /* set name */
+  src: url(/assets/Sabon-CE-Bold-Italic.ttf); /* url of the font */
+}
+
+
 * {
     margin: 0;
     padding: 0;
@@ -23,7 +29,7 @@ html {
 
 body {
     padding: 0 50px;
-    font-family: 'Poppins', sans-serif;
+    font-family: sabon,'Poppins', sans-serif;
     background-color: var(--background-color);
     max-width: 1400px;
     margin: 0 auto;
