@@ -94,7 +94,7 @@ formspree-key:   mblpvykn
 colors: # this is the basic theme
   text: "#ffffff"
   border: "#061831"
-  link: "#245B47"
+  link: "#007acc"
   highlight: "#888888"
   background: "#030A1C"
   light_background: "#11244A"
