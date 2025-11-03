@@ -1,16 +1,13 @@
 ---
 layout: post
-title: Sonos Teardown
-description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
+title: Chook Nook
+description: To monitor and care for my chicken flock I've created a sytem using a standard RasperryPi and several other hardware pieces. 
 skills: 
-  - drumel
-  - microprobing
-  - Electronics Teardown
-  - PCB analysis
-  - audio system design
+  - soldering
+  - Python
+  - Networking
+  - Machine Learning
+  - Web Design
 
 main-image: /sonos.png
 ---
-
-# This is another demo
-
