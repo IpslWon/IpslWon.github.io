@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Monitoring
-description: Using multiple datbases and UI, I've created my home monitoring system.
+description: Using multiple datbases and UIs, I've created my home monitoring system.
 skills: 
   - SNMP
   - Prometheus

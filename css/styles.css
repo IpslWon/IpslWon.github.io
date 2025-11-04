@@ -12,12 +12,12 @@
 
 @font-face {
     font-family: 'Sabon CE Roman';
-    src: url('SabonCE-BoldItalic.eot');
-    src: url('SabonCE-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('SabonCE-BoldItalic.woff2') format('woff2'),
-        url('SabonCE-BoldItalic.woff') format('woff'),
-        url('SabonCE-BoldItalic.ttf') format('truetype'),
-        url('SabonCE-BoldItalic.svg#SabonCE-BoldItalic') format('svg');
+    src: url('sabon.eot');
+    src: url('sabon.eot?#iefix') format('embedded-opentype'),
+        url('sabon.woff2') format('woff2'),
+        url('sabon.woff') format('woff'),
+        url('sabon.ttf') format('truetype'),
+        url('sabon.svg#sabon') format('svg');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -30,7 +30,7 @@
         url('xeroda.woff2') format('woff2'),
         url('xeroda .woff') format('woff'),
         url('xeroda.ttf') format('truetype'),
-        url('xeroda.svg#SabonCE-BoldItalic') format('svg');
+        url('xeroda.svg#xeroda') format('svg');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
