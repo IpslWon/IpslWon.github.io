@@ -16,3 +16,8 @@ skills:
 
 main-image: /hello_ladies.jpg
 ---
+
+## The Challange
+    Taking care of chickens while working full-time as a Sales Engineer means many hours hoping the crow I hear during my Zoom meeting isn't anything important 
+and just an egg announcement. Chickens, while hardy, can still suffer from frostbite on their toes and waddle. I wanted to make sure the coop wasn't getting too cold at night while minimizing the fire hazard and automating wherever possible. 
+
