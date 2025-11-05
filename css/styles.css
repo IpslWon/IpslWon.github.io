@@ -62,7 +62,7 @@ a {
 }
 
 pre {
-    color: var(--link-color);
+    color: var(--text-color);
     text-decoration: none;
 }
 
