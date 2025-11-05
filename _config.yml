@@ -76,7 +76,10 @@ certificates:
   - 6f4bffe9-cd4b-4188-b024-bade6c2abc62
   - f9cd0dfb-1623-4371-be4e-d0c6c33115cf
   - 454512ae-8d03-4a9b-a25e-4d300a822814
-  
+  - 4126aa8c-729d-44ba-aa42-828ac0026cd1
+  - 648df568-defa-427f-8c54-9c356c263dce
+
+
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
   text: "#ffffff"
