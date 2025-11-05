@@ -21,6 +21,8 @@ main-image: /hello_ladies.jpg
 ## The Challanges
 Taking care of chickens while working full-time means many hours hoping the crow I hear during my Zoom meeting isn't anything important and just an egg announcement. Chickens, while hardy, can still suffer from frostbite on their toes, combs and waddles. I wanted to make sure the coop wasn't getting too cold at night while minimizing the fire hazard and automating wherever possible. 
 
+All of this additional hardware means a larger energy footprint and enviormental impact. Being able to mitigate any power consumption is always a major factor in determining any solutions for any personal project. Not just for the immediate finical impact, but for long term sustainability.
+
 I didn't want my consumer grade cameras to be exposed to the internet while still being able to operate as they are intended to. Keeping a low price point for electronics that are going to be outside and in dirty enviorments and still have a small form factor wasn't a challange persay, but the most popular had mutiple security incidents with little no respsability for their lack of a proper secuirty posture and configuration mangement. 
 
 ## The Solutions
