@@ -43,3 +43,13 @@ The first step was finding the proper
 - Python
   - FastAPI
   - Flask
+
+
+## Building the Coop
+{% include image-gallery.html images="building_the_coop.jpg" height="400" %}
+{% include image-gallery.html images="building_the_coop2.jpg" height="400" %} 
+{% include image-gallery.html images="building_the_coop3.jpg" height="400" %} 
+{% include image-gallery.html images="building_the_coop4.jpg" height="400" %} 
+{% include image-gallery.html images="building_the_coop5.jpg" height="400" %} 
+{% include image-gallery.html images="building_the_coop6.jpg" height="400" %} 
+{% include image-gallery.html images="building_the_coop7.jpg" height="400" %} 
