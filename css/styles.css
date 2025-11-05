@@ -63,6 +63,10 @@ a {
 
 pre {
     color: var(--text-color);
+    font-family: 'Xeroda Regular', 'Sabon CE Roman','Poppins', sans-serif;
+    font-size: calc(9px + 0.5vw);
+    margin-bottom: 1em;
+    padding: 0; 
 }
 
 li {
