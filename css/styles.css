@@ -61,6 +61,14 @@ a {
     text-decoration: none;
 }
 
+ul {
+    color: var(--text-color);
+}
+
+ol {
+    color: var(--text-color);
+}
+
 h1 {
     color: var(--text-color);
     font-size: calc(14px + 1.0vw); /* Base size of 20px, increases with viewport width */
