@@ -46,4 +46,4 @@ The first step was finding the proper
 
 
 ## Building the Coop
-{% include image-gallery.html images="building_the_coop.jpg" , "building_the_coop2.jpg", "building_the_coop3.jpg", "building_the_coop4.jpg", "building_the_coop5.jpg", "building_the_coop6.jpg", "building_the_coop7.jpg" height="400" %} 
+{% include image-gallery.html images="building_the_coop.jpg , building_the_coop2.jpg, building_the_coop3.jpg, building_the_coop4.jpg, building_the_coop5.jpg, building_the_coop6.jpg, building_the_coop7.jpg" height="400" %} 
