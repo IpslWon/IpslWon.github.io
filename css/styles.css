@@ -61,6 +61,11 @@ a {
     text-decoration: none;
 }
 
+pre {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
 li {
     color: var(--text-color);
 }
