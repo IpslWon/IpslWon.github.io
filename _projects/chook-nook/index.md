@@ -41,5 +41,5 @@ The first step was finding the proper
 - InfluxDB
 - NGINX
 - Python
- - FastAPI
- - Flask
+  - FastAPI
+  - Flask
