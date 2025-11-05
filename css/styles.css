@@ -61,7 +61,11 @@ a {
     text-decoration: none;
 }
 
-li {
+ul li {
+    color: var(--text-color);
+}
+
+ol li {
     color: var(--text-color);
 }
 
