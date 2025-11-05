@@ -81,7 +81,8 @@ credly-certificates:
 
 coursera-certificates:
   - 8533PRLMJSHB
-  
+  - 2f0a268924b6762c0e646a81c185d24f8c09e989a4b879af6e21018de07ca4db
+
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
   text: "#ffffff"
