@@ -29,10 +29,10 @@ I didn&#39;t want my consumer grade cameras to be exposed to the internet while 
 The first step was finding the proper 
 ### The Hardware
 - Raspberry PI 
-- DHT22 sensors (deprecated)
-- SHT32 sensor (upgrade)
+- DHT22 temperature-humidity sensors (deprecated)
+- SHT30 Temperature And Humidity Sensor (upgrade)
 - 2 Channel relay
-- WYZE Cameras (being replaced)
+- WYZE Cameras (being phased out)
 - TAPO Cameras (replacement)
 
 
@@ -46,10 +46,4 @@ The first step was finding the proper
 
 
 ## Building the Coop
-{% include image-gallery.html images="building_the_coop.jpg" height="400" %}
-{% include image-gallery.html images="building_the_coop2.jpg" height="400" %} 
-{% include image-gallery.html images="building_the_coop3.jpg" height="400" %} 
-{% include image-gallery.html images="building_the_coop4.jpg" height="400" %} 
-{% include image-gallery.html images="building_the_coop5.jpg" height="400" %} 
-{% include image-gallery.html images="building_the_coop6.jpg" height="400" %} 
-{% include image-gallery.html images="building_the_coop7.jpg" height="400" %} 
+{% include image-gallery.html images="building_the_coop.jpg" , "building_the_coop2.jpg", "building_the_coop3.jpg", "building_the_coop4.jpg", "building_the_coop5.jpg", "building_the_coop6.jpg", "building_the_coop7.jpg" height="400" %} 
