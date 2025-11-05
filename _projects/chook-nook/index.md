@@ -18,9 +18,26 @@ main-image: /hello_ladies.jpg
 ---
 
 ---
-## The Challange
-<pre>
-  Taking care of chickens while working full-time as a Sales Engineer means many hours hoping the crow I hear during my Zoom meeting isn't anything important 
-and just an egg announcement. Chickens, while hardy, can still suffer from frostbite on their toes and waddle. I wanted to make sure the coop wasn't getting too cold at night while minimizing the fire hazard and automating wherever possible. 
-</pre>
+## The Challanges
+Taking care of chickens while working full-time means many hours hoping the crow I hear during my Zoom meeting isn't anything important and just an egg announcement. Chickens, while hardy, can still suffer from frostbite on their toes, combs and waddles. I wanted to make sure the coop wasn't getting too cold at night while minimizing the fire hazard and automating wherever possible. 
 
+I didn't want my consumer grade cameras to be exposed to the internet while still being able to operate as they are intended to. Keeping a low price point for electronics that are going to be outside and in dirty enviorments and still have a small form factor wasn't a challange persay, but the most popular had mutiple security incidents with little no respsability for their lack of a proper secuirty posture and configuration mangement. 
+
+## The Solutions
+The first step was finding the proper 
+### The Hardware
+- Raspberry PI 
+- DHT22 sensors (deprecated)
+- SHT32 sensor (upgrade)
+- 2 Channel relay
+- WYZE Cameras (being replaced)
+- TAPO Cameras (replacement)
+
+
+### The Software
+- Raspbian Buster
+- InfluxDB
+- NGINX
+- Python
+-- FastAPI
+-- Flask
