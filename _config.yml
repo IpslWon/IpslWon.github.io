@@ -120,6 +120,7 @@ plugins:
 
 include:
   - _projects
+  -.well-known
 
 
 # Exclude from processing.
