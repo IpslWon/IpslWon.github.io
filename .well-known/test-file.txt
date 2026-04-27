@@ -1,0 +1,2 @@
+# Inside .well-known/test-file.txt  
+This is a test file in the .well-known directory.  
